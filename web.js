@@ -4,8 +4,8 @@ http = reuire('http');
 var app = express.createServer(express.logger());
 
 app.get('/', function(request, response) {
-    response.writeHead(200, {'Content-Type': 'text/html'});
-    response.write(fs.readFileSync("./index.html", "utf8").toString());
+    var index_file_data = fs.readFileSync('index.html');
+    response.send(index_file_data.toString());
     response.end();
 });
 
