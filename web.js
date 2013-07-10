@@ -1,6 +1,6 @@
 var express = require('express');
 var fs = require('fs');
-var htto= require('http');
+var http= require('http');
 
 var app = express.createServer(express.logger());
 
