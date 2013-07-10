@@ -1,0 +1,68 @@
+commit 3f01ad4cb0d6fa542ac7d02a68b462df4bd35fe4
+Author: Dimitris Verdelis <jimverdelis@gmail.com>
+Date:   Wed Jul 10 10:29:38 2013 +0000
+
+    Might read index.html now...
+
+commit 5635b5b7c444a52db4232890b33865eae3f3f1f2
+Author: Dimitris Verdelis <jimverdelis@gmail.com>
+Date:   Wed Jul 10 10:21:09 2013 +0000
+
+    web.js
+
+commit 3a28d2eb15824797112050515ad9873cfb2a7a3d
+Author: Dimitris Verdelis <jimverdelis@gmail.com>
+Date:   Wed Jul 10 09:41:47 2013 +0000
+
+    Made web.js read from index.html, try 2
+
+commit 3eb34a850dcfe385b2bce523437f77c8c412e491
+Author: Dimitris Verdelis <jimverdelis@gmail.com>
+Date:   Wed Jul 10 09:22:27 2013 +0000
+
+    Made web.js read from index.html
+
+commit c0f68213c62090607566839aa263a0cba71a03d6
+Author: Dimitris Verdelis <jimverdelis@gmail.com>
+Date:   Tue Jul 9 21:40:52 2013 +0000
+
+    Added index.html
+
+commit e1583a8b76b0bf8ef75fc2741a8ef56360d6cdc3
+Author: Dimitris Verdelis <jimverdelis@gmail.com>
+Date:   Tue Jul 9 21:35:18 2013 +0000
+
+    Updated web.js
+
+commit 950a10a7020a48cbdbf62b1311f5dd0c768c3675
+Merge: 90fd58e e1e21ec
+Author: Mark Pundsack <mp@heroku.com>
+Date:   Tue Jul 9 07:13:19 2013 -0700
+
+    Merge pull request #7 from samccone/sjs/fix-example-app
+    
+    Sjs/fix example app
+
+commit e1e21ec2a8ad1538df07bb5ef76b2330a61117ad
+Author: Sam Saccone <samccone@gmail.com>
+Date:   Fri Jul 5 16:46:26 2013 -0400
+
+    update package.json
+
+commit 437f90161a488db5f919fdd583a735ffc9628f78
+Author: Sam Saccone <samccone@gmail.com>
+Date:   Fri Jul 5 16:45:58 2013 -0400
+
+    ignore node_modules with .gitignore
+
+commit 4b88103904d274f7fae8968861588f06fd447f12
+Author: Sam Saccone <samccone@gmail.com>
+Date:   Fri Jul 5 16:45:38 2013 -0400
+
+    remove node_modules folder from repo
+
+commit 90fd58e343c29e54fc1d4e19036595500b2bdc21
+Author: Mark Pundsack <mp@heroku.com>
+Date:   Thu Aug 16 21:11:09 2012 -0700
+
+    init
